@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "rmp_pic2.jpeg"
   name             : "Rodrigo Manriquez"
   pronouns         : "he/him"  
-  bio              : "PhD student in AI (VUB🇧🇪/ MA🇳🇱)."
+  bio              : "PhD candidate in Artificial Intelligence at Vrije Universiteit Brussel (Belgium) and in Psychology and Neuroscience in Maastricht University (The Netherlands)"
   location         : "Brussels, Belgium"
   employer         : "Vrije Universiteit Brussel"
   uri              : # URL
