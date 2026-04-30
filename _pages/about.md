@@ -3,8 +3,8 @@ permalink: /
 title: "Home"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /home/
+  - /home.html
 ---
 I am a double PhD candidate in Artificial Intelligence at Vrije Universiteit Brussel (VUB, Belgium) and in Psychology and Neuroscience in Maastricht University (MU, The Netherlands). 
 
